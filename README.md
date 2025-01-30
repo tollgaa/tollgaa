@@ -1,4 +1,4 @@
-[![MasterHead] <h1 align="center">Hi 👋, I'm Tolga</h1>
+<h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">As a computer programming student, I focus on improving my skills in C/C++, Python, and Flutter, always striving to push my limits and expand my knowledge.</h3>
 
 - 🔭 I’m currently working on [SparkPay!](https://github.com/tollgaa/SparkPay-Flutter)
